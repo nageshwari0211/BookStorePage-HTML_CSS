@@ -1,0 +1,107 @@
+.Popular-book-bg-container {
+    background-color: #1b1b1b;
+    height: 100%;
+    padding: 24px;
+}
+
+.popular-book-name {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 28px;
+}
+
+.wingsoffire-card {
+    background-color: #e6f6ff;
+    border-radius: 12px;
+}
+
+.wingsoffire-image {
+    width: 122px;
+    height: 43vh;
+}
+
+.wingsoffire-heading {
+    color: #183b56;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.wingsoffire-data1 {
+    color: #1b1b1b;
+    font-family: "Bree Serif";
+    padding-left: 10px;
+}
+
+.wingsoffire-data2 {
+    color: #183b56;
+    font-family: "Bree Serif";
+    padding-left: 10px;
+}
+
+.btn-primary {
+    width: 100px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+}
+
+.heading1 {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 24px;
+    margin: 10px;
+}
+
+.image {
+    height: 128px;
+    width: 80px;
+}
+
+.book-name {
+    font-family: "Bree serif";
+    font-size: 20px;
+    color: white;
+}
+
+.book-author {
+    font-family: "Bree Serif";
+    font-size: 15px;
+    color: #e4e7eb;
+}
+
+.btn1 {
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+.bg-container {
+    background-color: #1b1b1b;
+    padding: 24px;
+    text-align: center;
+}
+
+.page-image {
+    width: 190px;
+    height: 294px;
+    margin-bottom: 20px;
+}
+
+.book-title {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 28px;
+}
+
+.book-author-name {
+    color: #9aa5b1;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.book-description {
+    text-align: left;
+    color: #e4e7eb;
+    font-family: "Bree Serif";
+    font-size: 12px;
+    margin-top: 10px;
+}
